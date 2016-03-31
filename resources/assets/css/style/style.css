@@ -1,0 +1,16 @@
+/* Print styles */
+@media print {
+    .nottoprint {
+        display: none;
+    }
+}
+
+
+.cursorpointer{
+    cursor: pointer;
+}
+
+.sidebg
+{
+    background-image: url('../../images/bg3.png');
+}
